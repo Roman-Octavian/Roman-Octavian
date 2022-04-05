@@ -15,7 +15,7 @@
 - Computer Science student
 - My course focuses on Software Development
 - I have been teaching myself Web Development in my spare time
-- I'm trying to learn how to create software that is useful for others
+- I'm trying to learn how to create software that is useful to others
 
 ### Tech Stack:
 <div id="stack" align="center">
